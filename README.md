@@ -1,6 +1,4 @@
-# cryptometa
-
-> Public repository used by ViewBlock to display token information and compute score
+compound Coin TT
 
 ### How to use in your app
 
