@@ -7,7 +7,7 @@ using the following url:
 
     https://meta.viewblock.io/{key}/logo
 
-The key accepts different formats `chainSymbol`, `chainName`, `chainSymbol.tokenHash`, for example:
+The key accepts different formats `cl`, `chainName`, `chainSymbol.tokenHash`, for example:
 
     <img src="https://meta.viewblock.io/BTC/logo" />
     <img src="https://meta.viewblock.io/zilliqa/logo" />
